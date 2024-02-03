@@ -38,7 +38,7 @@
 
 - É importante configurar corretamente a constante *BASE_URL* dentro do **config.php**:
   
-  > define('BASE_URL', 'http://127.0.0.1/struct-api-restful-php/'); //EXEMPLO 
+  > define('BASE_URL', 'http://127.0.0.1/Rest/'); //EXEMPLO 
 
 <br>
 
