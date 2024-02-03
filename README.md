@@ -40,10 +40,17 @@
   
   > define('BASE_URL', 'http://127.0.0.1/struct-api-restful-php/'); //EXEMPLO 
 
+<br>
+
+
+## 🤝 Desenvolvedor
+
+> Software Engineer
+
 <table align="center">
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="">
         <img src="https://avatars.githubusercontent.com/u/109317442?v=4" width="160px;" alt="Erick Rodrigues"/><br>
         <sub>
           <b>Erick Rodrigues</b>
@@ -52,3 +59,14 @@
     </td>
   </tr>
 </table>
+
+
+## 📝 Licença
+
+Este projeto está sob licença. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+
+&#xa0;
+
+
+
+<a href="#top">Volte para o topo</a>
