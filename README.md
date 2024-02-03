@@ -30,7 +30,7 @@
 ```php
     define('BASE_URL', 'http://127.0.0.1/struct-api-restful-php/');
 
-    $config['dbname'] = 'project-struct-api-restful'; //banco de exemplo
+    $config['dbname'] = ' RestAPI'; //banco de exemplo
     $config['host'] = '127.0.0.1'; //ou 'localhost'
     $config['dbuser'] = 'root'; //login BD exemplo
     $config['dbpass'] = ''; //senha BD exemplo
@@ -38,7 +38,7 @@
 
 - É importante configurar corretamente a constante *BASE_URL* dentro do **config.php**:
   
-  > define('BASE_URL', 'http://127.0.0.1/Rest/'); //EXEMPLO 
+  > define('BASE_URL', 'http://127.0.0.1/RestAPI/'); //EXEMPLO 
 
 <br>
 
