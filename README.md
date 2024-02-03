@@ -2,9 +2,8 @@
 
 ## :rocket: Tecnologias utilizadas
 
-:heavy_check_mark:<li>PHP 7.4</li>
-<br>
-:heavy_check_mark:<li>MVC - padrão de projeto </li>
+<li>PHP 7.4</li>
+<li>MVC - padrão de projeto </li>
 
 ## :loudspeaker: Apresentação
 
