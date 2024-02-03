@@ -28,7 +28,7 @@
 - As configurações de Banco de Dados e URL estão no arquivo **/config.php**, tanto para **ENVIRONMENT=development** e **ENVIRONMENT=production**:
 
 ```php
-    define('BASE_URL', 'http://127.0.0.1/struct-api-restful-php/');
+    define('BASE_URL', 'http://127.0.0.1/RestAPI/');
 
     $config['dbname'] = ' RestAPI'; //banco de exemplo
     $config['host'] = '127.0.0.1'; //ou 'localhost'
